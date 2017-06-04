@@ -1,0 +1,14 @@
+PROGRAMMER'S NOTES
+
+4 June 2017
+-------------------------------------------------------------
+ -- Started Project. Named it after Minerva, the Roman Goddess of
+    Knowledge and Wisdom. The objective of this little program
+    is for controlling my dead tree library.
+
+ -- Objectives are modest. I want to be able to search by title,
+    author, or topic. Minerva should tell me where to find it.
+    I don't want to learn the Dewey Decimal System in depth so
+    I am not targetting this program to be full DDS compliant.
+
+    
